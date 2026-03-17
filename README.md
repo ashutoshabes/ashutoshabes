@@ -1,13 +1,13 @@
 👋 Hey! I'm Ashutosh Jaiswal
-B.Tech CSE 2nd Year Student • Passionate about DSA & Web Development 🚀
+B.Tech CSE 2nd Year Student | CSE • Passionate about DSA & Web Development
 
 ---
 
 🎓 About Me
-🏫 Studying B.Tech in Computer Science at ABES Engineering College, Ghaziabad
+🏫 Studying B.Tech in Computer Science at ABES Engineering College, Ghaziabad, India
 🎯 Specializing in Data Structures & Algorithms & Web Development
 💼 Currently working on projects
-🚀 Passionate about building real-world applications
+🚀 Passionate about learning and building
 🌍 Based in Ghaziabad, India
 
 ---
@@ -19,79 +19,63 @@ C++ • Data Structures & Algorithms • Web Development • Operating Systems
 
 💻 Tech Skills
 
-🔹 Languages
-C • C++ • Java • Python • JavaScript
+Languages
+C • C++
 
-🔹 Frontend Development
-HTML5 • CSS3 • React (Basics)
+Frontend Development
+HTML • CSS (Basics) • JavaScript (Basics)
 
-🔹 Backend & Databases
-Node.js • MongoDB • MySQL
+Backend & Databases
+—
 
-🔹 Developer Tools
-Git • GitHub • VS Code • Linux
+Developer Tools
+Git • GitHub • VS Code
 
 ---
 
 📫 Get In Touch
 
-📧 Email: [jaiswalashu0786@gmail.com](mailto:jaiswalashu0786@gmail.com)
-🌐 Portfolio: Coming Soon
-💬 Discord: Update Soon
+Email: [jaiswalashu0786@gmail.com](mailto:jaiswalashu0786@gmail.com)
+Portfolio: Coming Soon
+Discord: Update Soon
 
 ---
 
 🌐 Connect With Me
 
-🔗 LinkedIn: https://www.linkedin.com/in/ashutosh-jaiswal-a18910382
-🐙 GitHub: https://github.com/ashutoshabes
+LinkedIn: https://www.linkedin.com/in/ashutosh-jaiswal-a18910382
+GitHub: https://github.com/ashutoshabes
+
+---
+
+🎯 Featured Projects
+— Currently building projects —
 
 ---
 
 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutoshabes\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshabes\&layout=compact\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ashutoshabes\&theme=tokyonight)
-
----
-
-🎯 Featured Projects
-
-🔹 Student Management System
-➡️ Manages student records efficiently
-Tech Stack: C++
-
-🔹 Portfolio Website
-➡️ Personal portfolio to showcase projects
-Tech Stack: HTML • CSS • JavaScript
-
-🔹 OS Scheduling Simulator
-➡️ Implements FCFS, SJF, Priority Scheduling
-Tech Stack: C
-
-➡️ More projects coming soon...
+GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutoshabes\&show_icons=true)
 
 ---
 
 🏆 Achievements & Highlights
-🎖️ Actively learning DSA and solving problems
-🎖️ Building academic and personal projects
+🎖️ Learning DSA and improving problem-solving skills
+🎖️ Building foundational projects
 
 ---
 
 ⚡ Fun Facts About Me
-🎮 I enjoy coding and exploring new tech
+🎮 I enjoy coding and exploring tech
+🎓 Fun fact: Learning something new every day
 🎵 Currently vibing to: Lo-fi & Bollywood
-☕ Chai lover while coding 😎
+☕ Chai lover ☕
 
 ---
 
 📈 Always learning, always growing! 🚀
-
-⭐ If you like my projects, give them a star! ⭐
+⭐ If you like my profile, give it a star! ⭐
 
 ---
 
